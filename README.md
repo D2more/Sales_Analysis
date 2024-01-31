@@ -4,6 +4,8 @@
 
 This sales analysis project explores a dataset containing information about sales transactions. The data includes details such as order dates, product information, quantities ordered, prices, and customer locations. The analysis aims to uncover patterns, trends, and actionable insights that can inform business strategies.
 
+
+
 ## Key Features
 
 - **Data Cleaning:** The project begins with data cleaning, addressing issues such as missing values and incorrect data types.
@@ -16,7 +18,7 @@ This sales analysis project explores a dataset containing information about sale
 
 - **Time-Series Analysis:** Examining sales trends over time helps identify seasonal patterns and potential growth opportunities.
 
-## Technologies Used
+## Tools Used
 
 - Python
 - Pandas
