@@ -23,7 +23,7 @@ This sales analysis project explores a dataset containing information about sale
 ## Tools Used
 
 - Python
-- Jupyter NB
+- Jupyter Notebook
 - Pandas
 - Matplotlib
 - Seaborn
